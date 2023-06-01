@@ -75,14 +75,14 @@
     * What is Azure Source Repos
     * What is AWS Code Commit
 
-![Preview](./Images/git5.png)
+![Preview](./Images/git2.png)
 
-![Preview](./Images/git3.png)
+![Preview](./Images/git5.png)
 
 * Public vs Private Git Repositories 
 * Self Hosted and Cloud Hosted
 
-![Preview](./Images/git2.png)
+![Preview](./Images/git3.png)
 
 ## Activities
 
