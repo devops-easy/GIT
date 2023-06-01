@@ -75,7 +75,7 @@
     * What is Azure Source Repos
     * What is AWS Code Commit
 
-![Preview](./Images/git2.png)
+![Preview](./Images/git5.png)
 
 ![Preview](./Images/git3.png)
 
