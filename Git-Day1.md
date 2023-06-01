@@ -82,7 +82,7 @@
 * Public vs Private Git Repositories 
 * Self Hosted and Cloud Hosted
 
-![Preview](./Images/git4.png)
+![Preview](./Images/git2.png)
 
 ## Activities
 
