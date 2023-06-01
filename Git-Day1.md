@@ -84,8 +84,6 @@
 
 ![Preview](./Images/git4.png)
 
-![Preview](./Images/git5.png)
-
 ## Activities
 
 * Azure:
