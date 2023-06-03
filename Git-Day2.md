@@ -22,7 +22,7 @@
 
         * Add changes to index/staging area
 
-            ![Preview](./Images/git9.png)
+            ![Preview](./Images/git9.PNG)
 
         * Once we commit the changes the history will be maintained, To maintain history git requires
 
@@ -37,24 +37,24 @@
              ```
         * commit messsage is provided during commit and date time will be picked by git automatically
 
-            ![Preview](./Images/git10.png)
+            ![Preview](./Images/git10.PNG)
 
         * Few Areas of git relavent to local repo
 
-           ![Preview](./Images/git7.png)
+           ![Preview](./Images/git7.PNG)
 
         * Lets modify the file and create a second commit
            
-           ![Preview](./Images/git11.png)
+           ![Preview](./Images/git11.PNG)
 
-           ![Preview](./Images/git12.png)
+           ![Preview](./Images/git12.PNG)
 
         * For using git commands refer cheatsheet of your choice
 
 * In Git We add changes to the Staging area from Working directory
 * New files are referred as untracked files as they were never part of the version control system (local repo)
 
-![Preview](./Images/git13.png)
+![Preview](./Images/git13.PNG)
 
 * Now add the changes to the staging area
 
@@ -71,24 +71,24 @@ git log
 ```
 * Now lets delete a file
 
-![Preview](./Images/git14.png)
+![Preview](./Images/git14.PNG)
 
 * Git will not track empty directories. When you add files to the directory then git will consider the files added
 
-![Preview](./Images/git15.png)
+![Preview](./Images/git15.PNG)
 
 * Some useful commands so far
 
-![Preview](./Images/git16.png)
+![Preview](./Images/git16.PNG)
 
-![Preview](./Images/git17.png)
+![Preview](./Images/git17.PNG)
 
-![Preview](./Images/git18.png)
+![Preview](./Images/git18.PNG)
 
-![Preview](./Images/git19.png)
+![Preview](./Images/git19.PNG)
 
-![Preview](./Images/git20.png)
+![Preview](./Images/git20.PNG)
 
 * Adding multiple changes to staging area and then commiting them
 
-![Preview](./Images/git21.png)
+![Preview](./Images/git21.PNG)
