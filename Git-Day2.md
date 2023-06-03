@@ -41,7 +41,7 @@
 
         * Few Areas of git relavent to local repo
 
-           ![Preview](./Images/git7.PNG)
+           ![Preview](./Images/git7.png)
 
         * Lets modify the file and create a second commit
            
