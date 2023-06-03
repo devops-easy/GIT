@@ -18,7 +18,7 @@
             ``` git init (collect screenshot with .git) ```
         * Make changes and query status
 
-            ![Preview](./Images/git8.png)
+            ![Preview](./Images/git8.PNG)
 
         * Add changes to index/staging area
 
