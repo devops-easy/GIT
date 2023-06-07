@@ -1,7 +1,7 @@
 ## Git Merge
 * We will work on new feature by creating a new branch.
 
-![Preview](./Images/ecom-app.PNG)
+![Preview](./Images/ecom-app.png)
 
 ![Preview](./Images/gitday5.PNG)
 
