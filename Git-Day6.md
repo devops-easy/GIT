@@ -7,5 +7,6 @@
 
 ## Git Cherry-Pick
 * If you want to add only one commit you can use cherry-pick
+![Preview](./Images/git-cherry-pick.PNG)
 
-![Preview](./Images/git-merge-cherrypick)
+![Preview](./Images/git-merge-cherrypick.PNG)
