@@ -38,6 +38,8 @@
 
 ![Preview](./Images/gitday6-17.png)
 
+## Git Reset Types
+
 ![Preview](./Images/gitday6-18.png)
 
 ![Preview](./Images/gitday6-19.png)
