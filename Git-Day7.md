@@ -47,3 +47,15 @@
 ![Preview](./Images/gitday6-20.png)
 
 ![Preview](./Images/gitday6-21.png)
+
+![Preview](./Images/git-reset-hard.png)
+
+![Preview](./Images/git-reset-soft.png)
+
+![Preview](./Images/git-reset-mixed.png)
+
+![Preview](./Images/git-reset-types.png)
+
+![Preview](./Images/git-rebase-merge.png)
+
+![Preview](./Images/git-flow.png)
